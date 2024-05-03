@@ -4,7 +4,7 @@ Structured Query Language (SQL) is a powerful tool used for managing and manipul
 
 ## Importance of SQL
 
-SQL is essential for anyone working with databases, whether it's a database administrator, data analyst, software developer, or business intelligence professional. Here are some reasons why SQL is important:
+SQL is essential for someone working with databases, whether it's a database administrator, data analyst, software developer, or business intelligence professional. Here are some reasons why SQL is important:
 
 - **Data Retrieval**: SQL allows users to retrieve specific data from databases using queries, making it easy to extract information based on specific criteria.
   
